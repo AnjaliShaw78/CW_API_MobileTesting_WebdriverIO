@@ -1,5 +1,5 @@
 # Beeceptor's Fake Ecommerce APIs
-
+![Screenshot 2024-10-07 044226](https://github.com/user-attachments/assets/162c9b8c-7aa9-4231-9fd1-72f0d1cc791e)
 ## INTRODUCTION
 ## FakeStoreAPI is an open-source RESTful API that provides a simple set of endpoints to simulate an e-commerce store. It is commonly used for testing front-end applications, learning how to interact with APIs, or building small applications without needing to set up a backend.
 ## PROJECT TYPE
